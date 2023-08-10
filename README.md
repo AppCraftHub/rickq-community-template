@@ -1,0 +1,1 @@
+# Rick Q comunity template
