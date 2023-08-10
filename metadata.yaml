@@ -15,5 +15,5 @@
 homepage: "https://rick.ai"
 documentation: "https://rick.ai"
 versions:
-  - sha: fc52fad6e82329c8e98c0456c4c9aefbddff5f50
+  - sha: ee89a2aae6d9070e41623cb25c1751f57ecd7763
     changeNotes: Initial Version
